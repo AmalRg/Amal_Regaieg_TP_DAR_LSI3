@@ -12,7 +12,7 @@ public class Client {
 		try {
 			// etablir la connection
 			Socket s = new Socket("localhost",1234);
-			System.out.println("Je suis un connecte");
+			System.out.println("Je suis un client connecte");
 			// lecture de l'entier
 			Scanner Scanner = new Scanner(System.in);
 			System.out.println("Donner un nombre: ");
