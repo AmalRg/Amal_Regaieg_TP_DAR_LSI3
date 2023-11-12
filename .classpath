@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+	<classpathentry kind="src" path="src"/>
+=======
+>>>>>>> ed70ef1459c3d34775874961b6bcfcc7e090d54e
+>>>>>>> 8676a620e2658f3ab5b776b92d022028c60a650b
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="src" path="src"/>
+=======
+<<<<<<< HEAD
+	<classpathentry kind="lib" path="C:/Users/lenovo/TP_DAR/conversionClient.jar"/>
+=======
+	<classpathentry kind="src" path="src"/>
+>>>>>>> ed70ef1459c3d34775874961b6bcfcc7e090d54e
+>>>>>>> 8676a620e2658f3ab5b776b92d022028c60a650b
 	<classpathentry kind="output" path="bin"/>
 </classpath>
