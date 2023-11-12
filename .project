@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
+	<name>TP5_1_RMIConversion_Server</name>
+=======
+<<<<<<< HEAD
 	<name>TP5_1_RMIConversion_Client</name>
 =======
 <<<<<<< HEAD
@@ -9,6 +12,7 @@
 	<name>TP4</name>
 >>>>>>> 7661ba447cfef8597df914e57eb6b66c868609b1
 >>>>>>> ed70ef1459c3d34775874961b6bcfcc7e090d54e
+>>>>>>> 8676a620e2658f3ab5b776b92d022028c60a650b
 	<comment></comment>
 	<projects>
 	</projects>
