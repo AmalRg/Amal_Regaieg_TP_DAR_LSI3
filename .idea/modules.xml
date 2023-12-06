@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/CORBAConversion_Client.iml" filepath="$PROJECT_DIR$/CORBAConversion_Client.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/CORBAConversion_Server.iml" filepath="$PROJECT_DIR$/CORBAConversion_Server.iml" />
+>>>>>>> 7d5702bdee287cefa0facb509b86d59b02ba67fe
     </modules>
   </component>
 </project>
